@@ -1,0 +1,12 @@
+body {
+  color: orange;
+  background-color: darkblue;
+}
+
+.photo {
+  background-color: blue;
+  height: 200px;
+  line-height: 200px;
+  text-align: center;
+  width: 100%;
+}
